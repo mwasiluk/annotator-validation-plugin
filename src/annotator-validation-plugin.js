@@ -107,7 +107,7 @@ jQuery.extend(Annotator.Plugin.Validation.prototype, new Annotator.Plugin(), {
         }
 
         if(this.options.maxLength){
-            if(!annotation.text || annotation.text.length > this.options.maxLength){
+            if(annotation.text && annotation.text.length > this.options.maxLength){
                 return {
                     valid: false,
                     message: plugin.getValidationMessage('maxLength')
