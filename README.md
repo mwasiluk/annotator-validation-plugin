@@ -30,6 +30,10 @@ var pluginOptions={
 content.annotator('addPlugin', 'Validation', pluginOptions);
 ```
 
+## Demo
+
+[Plunker demo](http://embed.plnkr.co/zPyWgEdvEcUPyg4fWF2u/preview)
+
 ## Default options
 
 ```javascript
