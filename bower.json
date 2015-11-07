@@ -6,7 +6,7 @@
     "Michal Wasiluk"
   ],
   "description": "Annotation validation plugin for Annotator.js",
-  "main": "src/annotator-validation-plugin.js",
+  "main": "dist/annotator-validation-plugin.min.js",
   "moduleType": [],
   "keywords": [
     "annotator",
