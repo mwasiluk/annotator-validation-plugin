@@ -30,6 +30,12 @@ var pluginOptions={
 content.annotator('addPlugin', 'Validation', pluginOptions);
 ```
 
+## Bower
+
+You can install this package through `Bower` by using the following command :
+
+    bower install annotator-validation-plugin
+
 ## Demo
 
 [Plunker demo](http://embed.plnkr.co/zPyWgEdvEcUPyg4fWF2u/preview)
