@@ -1,0 +1,25 @@
+{
+  "name": "annotator-validation-plugin",
+  "version": "0.1.0",
+  "homepage": "https://github.com/mwasiluk/annotator-validation-plugin",
+  "authors": [
+    "Michal Wasiluk"
+  ],
+  "description": "Annotation validation plugin for Annotator.js",
+  "main": "src/annotator-validation-plugin.js",
+  "moduleType": [],
+  "keywords": [
+    "annotator",
+    "validation",
+    "plugin",
+    "annotator.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
